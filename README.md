@@ -258,4 +258,4 @@ This repository serves as the official landing page for The Battle for Middle-Ea
 **Get the most recent version of The Battle for Middle-Earth 2 today!**
 
 ---
-**Last updated:** 2026-10-20 21:05:36 UTC
+**Last updated:** 2026-10-21 00:17:45 UTC
